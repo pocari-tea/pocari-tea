@@ -16,6 +16,5 @@
  
 #### :pencil2: Study log
  
-  <br/>
-![Hun's github stats](https://github-readme-stats.vercel.app/api?username=pocari-tea&show_icons=true)
+![Hun's GitHub stats](https://github-readme-stats.vercel.app/api?username=pocari-tea&show_icons=true&theme=transparent)
 </div> 
