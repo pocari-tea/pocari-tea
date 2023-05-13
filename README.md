@@ -17,5 +17,5 @@
 #### :pencil2: Study log
  
   <br/>
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pocari-tea&show_icons=true&theme=transparent)
 </div> 
